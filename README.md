@@ -1,77 +1,52 @@
-# Hallo, ich bin Leila El Tousy 👋
+# Hey there 👋🏻
 
-## 🚀 À propos de moi
+I'm **Leila**, a Computer Science
+student from Morocco 🇲🇦, passionate about
+building real applications with Python,
+web technologies and AI.
 
-🎓 DUT Informatik-Studentin
-   Höhere Schule für Technologie
-   Beni Mellal, Marokko
+I'm currently in my 2nd year of a DUT in
+Computer Engineering at the École Supérieure
+de Technologie in Beni Mellal.
+My goal is to start an Ausbildung as a
+**Fachinformatikerin für Anwendungsentwicklung**
+in Germany 🇩🇪 and grow as a developer.
 
-💡 Passionée par :
-   Python · Webentwicklung · KI · APIs
+I don't just study theory —
+I build real projects and learn by doing.
 
-🌍 Mein Ziel :
-   Ausbildung als Fachinformatikerin
-   für Anwendungsentwicklung
-   in Deutschland 🇩🇪
+Along the way :
 
-📫 Kontakt : leilaeltousy@gmail.com
+- 🤖 Built a WhatsApp Bot using
+     Meta API and OpenAI
+- 🛒 Developed a full E-Commerce
+     website from scratch
+- 📊 Created an Anomaly Detection
+     System with Python
+- 🎙️ Building Alexandra —
+     an AI Voice Assistant (PFE 2026)
+- 🌍 Learning German actively
+     and aiming for B1 🇩🇪
+- 📜 Certified in Python,
+     English B2 and French B2
 
----
+I believe in learning by building.
+Every project I create solves
+a real problem or teaches me
+something new.
 
-## 🛠️ Meine Kenntnisse
-
-![Python](badge-python)
-![HTML](badge-html)
-![CSS](badge-css)
-![JavaScript](badge-js)
-![GitHub](badge-github)
-
----
-
-## 📂 Meine Projekte
-
-### 🤖 Meta API WhatsApp Bot
-→ WhatsApp Bot mit Python
-  und OpenAI API
-→ Automatische Antworten
-  für Kunden
-
-### 🛒 VELO-STOR E-Commerce
-→ Online-Shop mit
-  HTML · CSS · JavaScript
-→ Produktverwaltung
-  und Bestellsystem
-
-### 📊 Anomaly Detection System
-→ KI-Projekt mit Python
-→ Erkennung von
-  ungewöhnlichen Mustern
-
-### 🎙️ Alexandra — KI-Sprachassistent
-→ KI-Sprachassistent
-→ Mein PFE-Projekt 2026
+If you want to see what I'm working on,
+explore my repositories below ⬇️
 
 ---
 
-## 📊 GitHub Statistiken
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-![Stats](github-stats)
+## 📬 Contact me
 
----
-
-## 🌍 Sprachen
-
-🇲🇦 Arabisch — Muttersprache
-🇩🇪 Deutsch — A2 (B1 geplant)
-🇬🇧 Englisch — B2
-🇫🇷 Französisch — B2
-
----
-
-## 📬 Kontakt
-
-📧 leilaeltousy@gmail.com
-💼 GitHub: Nexus-Vertex
-```
-
----
+Feel free to reach out if you have a question or a project for me !📧 leilaeltousy@gmail.com
