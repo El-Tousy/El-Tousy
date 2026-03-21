@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hallo, ich bin Leila El Tousy 👋
 
-<!--
-**Nexus-Vertex/Nexus-Vertex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 DUT Informatik-Studentin an der
+Höheren Schule für Technologie
+in Beni Mellal, Marokko
 
-Here are some ideas to get you started:
+💻 Ich arbeite mit :
+Python · HTML · CSS · JavaScript · APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Mein Ziel :
+Ausbildung als Fachinformatikerin
+für Anwendungsentwicklung
+in Deutschland 🇩🇪
+
+---
+
+## 🚀 Meine Projekte
+
+🤖 **Meta API WhatsApp Bot**
+Interaktiver WhatsApp-Bot
+mit Python und OpenAI API
+
+🛒 **VELO-STOR E-Commerce**
+Online-Shop mit HTML · CSS · JavaScript
+
+📊 **Anomaly Detection System**
+KI-Projekt zur Erkennung
+von Anomalien mit Python
+
+🎙️ **Alexandra — KI-Sprachassistent**
+KI-Sprachassistent — PFE-Projekt 2026
+
+---
+
+## 🌍 Sprachen
+
+🇲🇦 Arabisch — Muttersprache
+🇩🇪 Deutsch — A2 (B1 geplant)
+🇬🇧 Englisch — B2
+🇫🇷 Französisch — B2
+
+---
+
+## 📬 Kontakt
+
+📧 leilaeltousy@gmail.com
+```
+
+---
