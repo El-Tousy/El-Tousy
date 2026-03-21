@@ -1,34 +1,61 @@
 # Hallo, ich bin Leila El Tousy 👋
 
-🎓 DUT Informatik-Studentin an der
-Höheren Schule für Technologie
-in Beni Mellal, Marokko
+## 🚀 À propos de moi
 
-💻 Ich arbeite mit :
-Python · HTML · CSS · JavaScript · APIs
+🎓 DUT Informatik-Studentin
+   Höhere Schule für Technologie
+   Beni Mellal, Marokko
+
+💡 Passionée par :
+   Python · Webentwicklung · KI · APIs
 
 🌍 Mein Ziel :
-Ausbildung als Fachinformatikerin
-für Anwendungsentwicklung
-in Deutschland 🇩🇪
+   Ausbildung als Fachinformatikerin
+   für Anwendungsentwicklung
+   in Deutschland 🇩🇪
+
+📫 Kontakt : leilaeltousy@gmail.com
 
 ---
 
-## 🚀 Meine Projekte
+## 🛠️ Meine Kenntnisse
 
-🤖 **Meta API WhatsApp Bot**
-Interaktiver WhatsApp-Bot
-mit Python und OpenAI API
+![Python](badge-python)
+![HTML](badge-html)
+![CSS](badge-css)
+![JavaScript](badge-js)
+![GitHub](badge-github)
 
-🛒 **VELO-STOR E-Commerce**
-Online-Shop mit HTML · CSS · JavaScript
+---
 
-📊 **Anomaly Detection System**
-KI-Projekt zur Erkennung
-von Anomalien mit Python
+## 📂 Meine Projekte
 
-🎙️ **Alexandra — KI-Sprachassistent**
-KI-Sprachassistent — PFE-Projekt 2026
+### 🤖 Meta API WhatsApp Bot
+→ WhatsApp Bot mit Python
+  und OpenAI API
+→ Automatische Antworten
+  für Kunden
+
+### 🛒 VELO-STOR E-Commerce
+→ Online-Shop mit
+  HTML · CSS · JavaScript
+→ Produktverwaltung
+  und Bestellsystem
+
+### 📊 Anomaly Detection System
+→ KI-Projekt mit Python
+→ Erkennung von
+  ungewöhnlichen Mustern
+
+### 🎙️ Alexandra — KI-Sprachassistent
+→ KI-Sprachassistent
+→ Mein PFE-Projekt 2026
+
+---
+
+## 📊 GitHub Statistiken
+
+![Stats](github-stats)
 
 ---
 
@@ -44,6 +71,7 @@ KI-Sprachassistent — PFE-Projekt 2026
 ## 📬 Kontakt
 
 📧 leilaeltousy@gmail.com
+💼 GitHub: Nexus-Vertex
 ```
 
 ---
