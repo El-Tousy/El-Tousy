@@ -6,11 +6,11 @@ building real applications with Python,
 web technologies and AI.
 
 I'm currently in my 2nd year of a DUT in
-Computer Engineering at the École Supérieure
-de Technologie in Beni Mellal.
-My goal is to start an Ausbildung as a
-**Fachinformatikerin für Anwendungsentwicklung**
-in Germany 🇩🇪 and grow as a developer.
+Computer Engineering at the Higher School of Technology
+in Beni Mellal, Morocco.
+My goal is to grow as a developer
+and build impactful real-world
+applications.
 
 I don't just study theory —
 I build real projects and learn by doing.
@@ -25,10 +25,6 @@ Along the way :
      System with Python
 - 🎙️ Building Alexandra —
      an AI Voice Assistant (PFE 2026)
-- 🌍 Learning German actively
-     and aiming for B1 🇩🇪
-- 📜 Certified in Python,
-     English B2 and French B2
 
 I believe in learning by building.
 Every project I create solves
