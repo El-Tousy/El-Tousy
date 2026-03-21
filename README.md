@@ -17,13 +17,13 @@ I build real projects and learn by doing.
 
 Along the way :
 
-- 🤖 Built a WhatsApp Bot using
+- Built a WhatsApp Bot using
      Meta API and OpenAI
-- 🛒 Developed a full E-Commerce
+- Developed a full E-Commerce
      website from scratch
-- 📊 Created an Anomaly Detection
+- Created an Anomaly Detection
      System with Python
-- 🎙️ Building Alexandra —
+- Building Alexandra —
      an AI Voice Assistant (PFE 2026)
 
 I believe in learning by building.
