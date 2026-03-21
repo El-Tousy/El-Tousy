@@ -6,7 +6,7 @@ building real applications with Python,
 web technologies and AI.
 
 I'm currently in my 2nd year of a DUT in
-Computer Engineering at the Higher School of Technology
+Computer Science at the Higher School of Technology
 in Beni Mellal, Morocco.
 My goal is to grow as a developer
 and build impactful real-world
