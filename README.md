@@ -43,6 +43,6 @@ explore my repositories below ⬇️
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📬 Contact me
+## Contact me
 
 Feel free to reach out if you have a question or a project for me !📧 leilaeltousy@gmail.com
