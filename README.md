@@ -45,4 +45,4 @@ explore my repositories below ⬇️
 
 ## Contact me
 
-Feel free to reach out if you have a question or a project for me !📧 leilaeltousy@gmail.com
+Feel free to reach out if you have a question or a project for me !📧
