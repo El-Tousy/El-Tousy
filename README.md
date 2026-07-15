@@ -5,9 +5,8 @@ student from Morocco 🇲🇦, passionate about
 building real applications with Python,
 web technologies and AI.
 
-I'm currently in my 2nd year of a DUT in
-Computer Science at the Higher School of Technology
-in Beni Mellal, Morocco.
+I'm a 
+Computer Science student.
 My goal is to grow as a developer
 and build impactful real-world
 applications.
