@@ -5,8 +5,6 @@ student from Morocco 🇲🇦, passionate about
 building real applications with Python,
 web technologies and AI.
 
-I'm a 
-Computer Science student.
 My goal is to grow as a developer
 and build impactful real-world
 applications.
