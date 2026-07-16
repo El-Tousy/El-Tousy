@@ -59,7 +59,9 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 <picture>
     <img alt="galaga contribution graph" src="assets/demo/galaga.svg">
 </picture>
+
 ---
+
 ## Let's connect
 
 Feel free to reach out if you have a question or a project idea for me!
