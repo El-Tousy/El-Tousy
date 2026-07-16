@@ -32,7 +32,9 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
+## Contribution Graph
+![Contribution Graph](https://raw.githubusercontent.com/Nexus-Vertex/Nexus-Vertex/output/pacman-contribution-graph-dark.svg)
+---
 ## Let's connect
 
 Feel free to reach out if you have a question or a project idea for me!
