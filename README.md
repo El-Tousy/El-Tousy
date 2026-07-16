@@ -35,6 +35,33 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 ## Contribution Graph
 ![Contribution Graph](https://raw.githubusercontent.com/Nexus-Vertex/Nexus-Vertex/output/pacman-contribution-graph-dark.svg)
 ---
+
+# github-pacman
+
+<div align="center">
+
+Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+---
 ## Let's connect
 
 Feel free to reach out if you have a question or a project idea for me!
