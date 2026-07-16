@@ -2,8 +2,6 @@
 
 I'm *Leila*, a Computer Science student from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
 
-I'm currently in my 2nd year of a DUT in Computer Science at the Higher School of Technology in Beni Mellal, Morocco.
-
 My goal is to grow as a developer and build impactful, real-world applications.
 
 I don't just study theory — I build real projects and learn by doing.
@@ -39,7 +37,7 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 
 Feel free to reach out if you have a question or a project idea for me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nexus-Vertex)
 
 ---
