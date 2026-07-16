@@ -1,6 +1,6 @@
 # Hey there 👋🏻
 
-I'm **Leila**, a Computer Science student from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
+I'm *Leila*, a Computer Science student from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
 
 I'm currently in my 2nd year of a DUT in Computer Science at the Higher School of Technology in Beni Mellal, Morocco.
 
