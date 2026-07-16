@@ -32,6 +32,7 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+
 ## 👾 Contribution Graph
 
 <picture>
