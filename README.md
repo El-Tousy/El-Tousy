@@ -37,5 +37,5 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 
 Feel free to reach out if you have a question or a project idea for me!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=leilaeltousy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nexus-Vertex)
