@@ -35,11 +35,25 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 
 ## 👾 Contribution Graph
 
+<br>
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
-    <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
 </picture>
+
+</div>
+
 
 ---
 ## 🐙 Galaga preview
