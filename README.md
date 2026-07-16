@@ -33,14 +33,6 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 
 ---
 ## Contribution Graph
-![Contribution Graph](https://raw.githubusercontent.com/Nexus-Vertex/Nexus-Vertex/output/pacman-contribution-graph-dark.svg)
----
-
-# github-pacman
-
-<div align="center">
-
-Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
 
 <br>
 
