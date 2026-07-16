@@ -1,28 +1,37 @@
-name: Generate Snake/Pacman Contribution Graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Nexus-Vertex
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push output to output branch
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create build dir
+        run: mkdir -p dist
+
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: jkdevcode
+        env:
+          NODE_OPTIONS: "--max_old_space_size=6144"
+
+      - name: Publish Pacman Graph
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
