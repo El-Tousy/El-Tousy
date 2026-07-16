@@ -54,6 +54,9 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 </div>
 
 ---
+
+https://raw.githubusercontent.com/jkdevcode/github-pacman/output/dist/pacman-contribution-graph-dark.svg
+
 ## Let's connect
 
 Feel free to reach out if you have a question or a project idea for me!
