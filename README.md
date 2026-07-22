@@ -7,6 +7,7 @@ My goal is to grow as a developer and build impactful, real-world applications.
 I don't just study theory — I build real projects and learn by doing.
 
 ---
+<img align="right" width="280" src="assets/coding.gif">
 
 ## What I've been building
 
@@ -19,6 +20,7 @@ I believe in learning by building. Every project I create solves a real problem 
 
 If you want to see what I'm working on, explore my repositories below ⬇️
 
+
 ---
 
 ## Tech stack
@@ -30,7 +32,7 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+<br clear="right"/>
 ---
 
 ## 👾 Contribution Graph
