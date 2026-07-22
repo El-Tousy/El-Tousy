@@ -20,6 +20,7 @@ I believe in learning by building. Every project I create solves a real problem 
 
 If you want to see what I'm working on, explore my repositories below ⬇️
 
+<br clear="right"/>
 
 ---
 
