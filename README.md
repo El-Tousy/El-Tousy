@@ -6,23 +6,33 @@ My goal is to grow as a developer and build impactful, real-world applications.
 
 I don't just study theory — I build real projects and learn by doing.
 
----
-<img align="right" width="280" src="assets/coding.gif">
+
+<table>
+<tr>
+<td width="70%">
 
 ## What I've been building
-
--  Built a **WhatsApp Bot** using the Meta API and OpenAI
--  Developed a full **E-Commerce website** from scratch
--  Building **Alexandra** — an AI Voice Assistant (PFE 2026)
--  ...
+-  Built a **[WhatsApp Bot](https://github.com/Nexus-Vertex/Meta-API-python-whatsapp-bot)** using the Meta API and OpenAI
+-  Developed a full **[E-Commerce website](https://github.com/Nexus-Vertex/.-VELO-STOR-Online-Store-Web-Project)** from scratch
+-  Building **[Alexandra](https://github.com/Nexus-Vertex/Alexandra-AI-Voice-Assistante)** — an AI Voice Assistant (PFE 2026)
+-  Built an **[Admin Dashboard](https://github.com/Nexus-Vertex/Admin-dashboard-project-internship-Giga-Manager-overview-screenshots-only)** for website & user management during my internship
+-  Designed a **[Weather Supervision Dashboard](https://github.com/Nexus-Vertex/Weather-supervision-dashboard-showcase)** with live map, alarms, KPIs & RBAC
+-  Migrated **[GLPI 10 to GLPI 11](https://github.com/Nexus-Vertex/glpi-10-to-11-docker-migration)** via Docker
 
 I believe in learning by building. Every project I create solves a real problem or teaches me something new.
 
 If you want to see what I'm working on, explore my repositories below ⬇️
 
-<br clear="right"/>
+</td>
+<td width="30%">
 
----
+<img src="assets/coding.gif" width="280">
+
+</td>
+</tr>
+</table>
+
+
 
 ## Tech stack
 
