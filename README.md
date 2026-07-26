@@ -6,6 +6,7 @@ My goal is to grow as a developer and build impactful, real-world applications.
 
 I don't just study theory — I build real projects and learn by doing.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20plus-2dd4bf?style=for-the-badge)](https://nexus-vertex.nekoweb.org/index.html)
 
 <table>
 <tr>
