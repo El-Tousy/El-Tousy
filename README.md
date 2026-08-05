@@ -6,11 +6,9 @@ My goal is to grow as a developer and build impactful, real-world applications.
 
 I don't just study theory — I build real projects and learn by doing.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20plus-2dd4bf?style=for-the-badge)](https://nexus-vertex.nekoweb.org/) 
+ 👾 explore my full portfolio!    [![Portfolio](https://img.shields.io/badge/Portfolio-Voir%20plus-2dd4bf?style=for-the-badge)](https://nexus-vertex.nekoweb.org/) 
 
- [![Guestbook](https://img.shields.io/badge/Guestbook-Sign%20here-2dd4bf?style=for-the-badge)](https://nexus-vertex.atabook.org/) 💬 Got a question, feedback, or just want to say hi? — I'd love to hear from you!
-
-  💬 Got a question, feedback, or just want to say hi? — I'd love to hear from you! [![Guestbook](https://img.shields.io/badge/Guestbook-Sign%20here-2dd4bf?style=for-the-badge)](https://nexus-vertex.atabook.org/)
+  💬 Got a question, feedback, or just want to say hi? — I'd love to hear from you!    [![Guestbook](https://img.shields.io/badge/Guestbook-Sign%20here-2dd4bf?style=for-the-badge)](https://nexus-vertex.atabook.org/)
 
 
 <table>
