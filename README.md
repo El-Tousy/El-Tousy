@@ -13,7 +13,7 @@ I don't just study theory — I build real projects and learn by doing.
 
 <table>
 <tr>
-<td width="70%">
+<td width="70%"> 
 
 ## What I've been building
 -  Building **[Alexandra](https://github.com/Nexus-Vertex/Alexandra-AI-Voice-Assistante)** — an AI Voice Assistant (PFE 2026)
