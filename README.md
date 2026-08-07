@@ -18,7 +18,7 @@ I don't just study theory — I build real projects and learn by doing.
 -  Built a **[WhatsApp Bot](https://github.com/Nexus-Vertex/Meta-API-python-whatsapp-bot)** using the Meta API and OpenAI
 -  Developed a full **[E-Commerce website](https://github.com/Nexus-Vertex/.-VELO-STOR-Online-Store-Web-Project)** from scratch
 
-I believe in learning by building. Every project I create solves a real problem or teaches me something new.
+Every project I create solves a real problem or teaches me something new.
 
 If you want to see what I'm working on, explore my repositories below ⬇️
 
