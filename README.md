@@ -1,4 +1,4 @@
-# Hey 👋🏻
+# Hallo 👋🏻
 
 I'm *Leila*, a Computer Science student from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
 
