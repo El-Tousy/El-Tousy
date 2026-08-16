@@ -14,7 +14,7 @@ I don't just study theory — I build real projects and learn by doing.
 -  Building **[Alexandra](https://github.com/Nexus-Vertex/Alexandra-AI-Voice-Assistante)** — an AI Voice Assistant (PFE 2026)
 -  Built an **[Admin Dashboard](https://github.com/Nexus-Vertex/Admin-dashboard-project-internship-Giga-Manager-overview-screenshots-only)** for website & user management during my internship
 -  Migrated **[GLPI 10 to GLPI 11](https://github.com/Nexus-Vertex/glpi-10-to-11-docker-migration)** via Docker
--  Designed a **[Weather Supervision Dashboard](https://github.com/Nexus-Vertex/Weather-supervision-dashboard-showcase)** with live map, alarms, KPIs & RBAC
+-  Designed a **[Weather Supervision Dashboard](https://github.com/Nexus-Vertex/Weather-supervision-dashboard-showcase)** with live map, alarms & KPIs 
 -  Built a **[WhatsApp Bot](https://github.com/Nexus-Vertex/Meta-API-python-whatsapp-bot)** using the Meta API and OpenAI
 -  Developed a full **[E-Commerce website](https://github.com/Nexus-Vertex/.-VELO-STOR-Online-Store-Web-Project)** from scratch
 
