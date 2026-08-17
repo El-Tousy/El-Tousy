@@ -2,7 +2,7 @@
 
 I'm *Leila*, a Computer Science student from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
 
-My goal is to grow as a developer and build impactful, real-world applications.
+My goal is to grow as a developer and build impactful, real-world applications. 
 
 I don't just study theory — I build real projects and learn by doing. 
 
