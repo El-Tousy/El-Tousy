@@ -1,6 +1,6 @@
 # Hallo 👋🏻
 
-I'm *Leila*, a developer from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
+I'm *Leila*, from Morocco 🇲🇦 , passionate about building real applications with Python, web technologies and AI.
 
 My goal is to grow as a developer and build impactful, real-world applications. 
 
