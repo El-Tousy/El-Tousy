@@ -1,6 +1,6 @@
 # Hallo 👋🏻
 
-I'm *Leila*, an IT Graduate from Morocco 🇲🇦 (DUT in Computer Science), passionate about building real applications with Python, web technologies and AI.
+I'm *Leila*, a developer from Morocco 🇲🇦, passionate about building real applications with Python, web technologies and AI.
 
 My goal is to grow as a developer and build impactful, real-world applications. 
 
