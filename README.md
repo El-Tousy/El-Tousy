@@ -1,10 +1,11 @@
 # Hallo 👋🏻
 
-I'm *Leila*, from Morocco 🇲🇦 , passionate about building real applications with Python, web technologies and AI.
+I'm *Leila*, from Morocco 🇲🇦 , passionate about IT, software development and building practical solutions.
 
-My goal is to grow as a developer and build impactful, real-world applications. 
+I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together.
 
-I don't just study theory — I build real projects and learn by doing. 
+I don't just study theory — I learn by doing, build practical projects and continuously develop my technical skills.
+
 
 <table>
 <tr>
