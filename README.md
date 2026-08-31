@@ -6,7 +6,7 @@ I enjoy working on real-world projects, exploring new technologies and understan
 
 I don't just study theory — I learn by doing, build practical projects and continuously develop my technical skills.
  
- 
+  
 <table>
 <tr>
 <td width="70%">
