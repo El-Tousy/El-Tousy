@@ -5,7 +5,22 @@ I'm **, from Morocco 🇲🇦 , passionate about IT, software development and bu
 I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together.
 
 I don't just study theory — I learn by doing, build practical projects and continuously develop my technical skills.
- 
+
+📌 My technical skills include :
+
+- 💻 *Languages:* 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗞𝗼𝘁𝗹𝗶𝗻, 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦
+
+- 🤖 *AI & Automation:* 𝗢𝗽𝗲𝗻𝗔𝗜 𝗔𝗣𝗜, 𝗠𝗲𝘁𝗮 𝗔𝗣𝗜, 𝗩𝗼𝗶𝗰𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁𝘀, 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗰𝗿𝗶𝗽𝘁𝘀
+
+- 📱 *Mobile Development:* 𝗞𝗼𝘁𝗹𝗶𝗻, 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼
+
+- 🖥️ *IT & Systems:* 𝗗𝗼𝗰𝗸𝗲𝗿, 𝗚𝗟𝗣𝗜, 𝗟𝗶𝗻𝘂𝘅, 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻
+
+- 🌐 *Web Development:* 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗙𝗹𝗮𝘀𝗸/𝗗𝗷𝗮𝗻𝗴𝗼)
+
+- 🛠️ *Tools:* 𝗚𝗶𝘁, 𝗚𝗶𝘁𝗛𝘂𝗯, 𝗩𝗦𝗖𝗼𝗱𝗲
+
+- 👨‍💻 All of my projects are available at [Nexus-Vertex](https://github.com/Nexus-Vertex)
       
 <table>
 <tr>
