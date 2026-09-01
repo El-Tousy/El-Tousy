@@ -32,6 +32,8 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 </tr>
 </table>
 
+## Tech Stack
+
 <h3 align="left">💻 Development</h3>
 
 <div align="center">
