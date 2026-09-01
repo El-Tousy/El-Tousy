@@ -6,7 +6,7 @@ I enjoy working on real-world projects, exploring new technologies and understan
 
 I am a junior software developer with experience in Python, web development, SQL and software projects. 
 I can help with debugging, fixing errors, testing applications and developing small software solutions.
-      
+        
 <table>          
 <tr>    
 <td width="70%">
