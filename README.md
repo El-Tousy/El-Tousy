@@ -3,7 +3,7 @@
 I'm , from Morocco 🇲🇦 , passionate about IT, software development and building practical solutions.   
    
 I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together.
-    
+     
 I am a junior software developer with experience in Python, web development, SQL and software projects.    
 I can help with debugging, fixing errors, testing applications and developing small software solutions.
              
