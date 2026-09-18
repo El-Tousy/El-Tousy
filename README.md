@@ -46,7 +46,7 @@ If you want to see what I'm working on, explore my repositories below ⬇️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
-### <h3 align="left">🖥️ IT & Tools</h3>
+### <h3 align="left">🖥️ Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
