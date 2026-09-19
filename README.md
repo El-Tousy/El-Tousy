@@ -20,13 +20,17 @@ Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Developme
 <table>   
 <tr>        
 <td width="70%">
-
+            
+<div align="center">
+            
 ## Profile
- 
-I'm a junior software developer , passionate about IT, software development and building practical solutions.
- 
+
+</div>
+
+I'm a junior software developer, passionate about IT, software development and building practical solutions.
+
 I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together — rather than stopping at theory.
- 
+
 **Target roles:** Junior Software Developer, IT Support & Automation.
 
 ---
