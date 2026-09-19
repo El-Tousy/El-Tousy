@@ -153,11 +153,5 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 Feel free to reach out if you have a question or a project idea for me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nexusovertex@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@MarkooSilvax-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MarkooSilvax)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MarkooSilvax)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nexus-Vertex)
-
-<div align="center">
-
-**Every project should solve a real problem and teach something new.**
-
-</div>
