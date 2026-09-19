@@ -1,14 +1,46 @@
-# Hallo 👋🏻 
+<div align="center">
             
-I'm , from Morocco 🇲🇦 , passionate about IT, software development and building practical solutions.                        
-I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together.      
-           
-I am a junior software developer with experience in Python, web development, SQL and software projects.        
-I can help with debugging, fixing errors, testing applications and developing small software solutions. 
-             
+# Nexus
+ 
+### Junior Software Developer · Python & Web Development · IT Systems
+ 
+I build practical, real-world software — from debugging and testing to full applications — and I keep learning how software and IT systems fit together.
+
+[![Deutsch version](https://img.shields.io/badge/Deutsche_Version-README.de.md-0A66C2?style=flat-square)](README.de.md)
+[![Telegram](https://img.shields.io/badge/Telegram-@Nexus-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Markoo)
+[![Email](https://img.shields.io/badge/Email-nexusovertex%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-El--Tousy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/El-Tousy)
+ 
+Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Development
+ 
+</div>
+
+---
+
 <table>   
 <tr>        
 <td width="70%">
+
+## Profile
+ 
+I'm a junior software developer from Morocco, passionate about IT, software development and building practical solutions.
+ 
+I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together — rather than stopping at theory.
+ 
+My background covers **Python, web development and SQL**, applied through hands-on projects: debugging, fixing errors, testing applications and developing small, focused software solutions that solve real problems.
+ 
+**Target roles:** Junior Software Developer, Python Developer, IT Support & Automation.
+
+---
+
+</td>
+<td width="70%">
+
+<img src="assets/coding.gif" width="280">
+
+</td>
+</tr>
+</table>
 
 ## What I've been building
 -  Building **[Alexandra](https://github.com/Nexus-Vertex/Alexandra-AI-Voice-Assistante)** — an AI Voice Assistant (PFE 2026)
@@ -21,15 +53,6 @@ I can help with debugging, fixing errors, testing applications and developing sm
 Every project I create solves a real problem or teaches me something new.
 
 If you want to see what I'm working on, explore my repositories below ⬇️
-
-</td>
-<td width="30%">
-
-<img src="assets/coding.gif" width="280">
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack
 
@@ -98,9 +121,41 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 
 ---
 
+## GitHub activity
+
+<!-- Generated automatically by .github/workflows/profile-cards.yml -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg">
+  <img width="100%" alt="GitHub profile details" src="profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg">
+    <img width="49%" alt="Repositories per language" src="profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg">
+    <img width="49%" alt="GitHub statistics" src="profile-summary-card-output/github/3-stats.svg">
+  </picture>
+</p>
+
+---
+
 ## Let's connect
 
 Feel free to reach out if you have a question or a project idea for me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nexusovertex@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Nexus-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Markoo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nexus-Vertex)
+
+<div align="center">
+
+**Every project should solve a real problem and teach something new.**
+
+</div>
