@@ -83,23 +83,6 @@ Every project I create solves a real problem or teaches me something new.
 
 If you want to see what I'm working on, explore my repositories below ⬇️
 
-## 📌 Pinned
-
-<p align="center">
-  <a href="https://github.com/El-Tousy/alexandra-voice-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-Tousy&repo=alexandra-voice-assistant&theme=default" /></a>
-  <a href="https://github.com/El-Tousy/velo.Store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-Tousy&repo=velo.Store&theme=default" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/El-Tousy/whatsapp-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-Tousy&repo=whatsapp-bot&theme=default" /></a>
-  <a href="https://github.com/El-Tousy/admin-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-Tousy&repo=admin-dashboard&theme=default" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/El-Tousy/weather-monitoring-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-Tousy&repo=weather-monitoring-dashboard&theme=default" /></a>
-  <a href="https://github.com/El-Tousy/glpi-docker-migration"><img src="https://github-readme-stats.vercel.app/api/pin/?username=El-Tousy&repo=glpi-docker-migration&theme=default" /></a>
-</p>
-
 ---
 ## GitHub activity
 
