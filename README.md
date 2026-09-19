@@ -56,6 +56,8 @@ Every project I create solves a real problem or teaches me something new.
 
 If you want to see what I'm working on, explore my repositories below ⬇️
 
+---
+
 ## Tech Stack
 
 ### <h3 align="left">💻 Development</h3>
@@ -92,6 +94,31 @@ If you want to see what I'm working on, explore my repositories below ⬇️
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
+---
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg">
+  <img width="100%" alt="GitHub profile details" src="profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg">
+    <img width="49%" alt="Repositories per language" src="profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg">
+    <img width="49%" alt="GitHub statistics" src="profile-summary-card-output/github/3-stats.svg">
+  </picture>
+</p>
+
+---
+
 ## 👾 Contribution Graph
 
 <br>
@@ -120,31 +147,6 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 <picture>
     <img alt="galaga contribution graph" src="assets/demo/galaga.svg">
 </picture>
-
----
-
-## GitHub activity
-
-<!-- Generated automatically by .github/workflows/profile-cards.yml -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg">
-  <img width="100%" alt="GitHub profile details" src="profile-summary-card-output/github/0-profile-details.svg">
-</picture>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg">
-    <img width="49%" alt="Repositories per language" src="profile-summary-card-output/github/1-repos-per-language.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg">
-    <img width="49%" alt="GitHub statistics" src="profile-summary-card-output/github/3-stats.svg">
-  </picture>
-</p>
 
 ---
 
