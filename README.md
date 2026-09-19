@@ -27,9 +27,7 @@ I'm a junior software developer , passionate about IT, software development and 
  
 I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together — rather than stopping at theory.
  
-My background covers **Python, web development and SQL**, applied through hands-on projects: debugging, fixing errors, testing applications and developing small, focused software solutions that solve real problems.
- 
-**Target roles:** Junior Software Developer, Python Developer, IT Support & Automation.
+**Target roles:** Junior Software Developer, IT Support & Automation.
 
 ---
 
