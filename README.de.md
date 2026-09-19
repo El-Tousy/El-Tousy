@@ -27,7 +27,7 @@ Marokko 🇲🇦 · Freelance- und Junior-Stellen · Python · SQL · Webentwick
 
 </div>
 
-Ich bin [Name], aus Marokko 🇲🇦, mit einer Leidenschaft für IT, Softwareentwicklung und das Entwickeln praktischer Lösungen.
+Ich bin 𝑺𝒊𝒍𝒗𝒂𝒙𝒔, aus Marokko 🇲🇦, mit einer Leidenschaft für IT, Softwareentwicklung und das Entwickeln praktischer Lösungen.
 
 Ich arbeite gerne an praxisnahen Projekten, entdecke neue Technologien und verstehe, wie Software und IT-Systeme zusammenwirken — anstatt bei der reinen Theorie stehen zu bleiben.
 
