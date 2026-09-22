@@ -12,7 +12,7 @@ I build practical, real-world software — from debugging and testing to full ap
 [![GitHub](https://img.shields.io/badge/GitHub-El--Tousy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/El-Tousy)
  
 Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Development
- 
+  
 </div>
 
 ---
