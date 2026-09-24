@@ -1,6 +1,6 @@
 <div align="center">
              
-# 𝑺𝒊𝒍𝒗𝒂𝒙𝒔   
+# 𝑺𝒊𝒍𝒗𝒂𝒙𝒔    
       
 ### Junior Software Developer · Python & Web Development · IT Systems   
   
