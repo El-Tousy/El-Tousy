@@ -17,7 +17,7 @@ Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Developme
 </div>
 
 ---
- 
+  
 <table>   
 <tr>        
 <td width="70%"> 
