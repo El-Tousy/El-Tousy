@@ -15,7 +15,7 @@ I build practical, real-world software — from debugging and testing to full ap
 Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Development
   
 </div>
-
+ 
 --- 
   
 <table>   
