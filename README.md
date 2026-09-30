@@ -8,7 +8,7 @@
 I build practical, real-world software — from debugging and testing to full applications — and I keep learning how software and IT systems fit together.
 
 [![Deutsch version](https://img.shields.io/badge/Deutsche_Version-README.de.md-0A66C2?style=flat-square)](README.de.md)
-[![Telegram](https://img.shields.io/badge/Telegram-@Silvax-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sil_vaxs)
+[![Telegram](https://img.shields.io/badge/Telegram-@𝑺𝒊𝒍𝒗𝒂𝒙𝒔-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sil_vaxs)
 [![Email](https://img.shields.io/badge/Email-nexusovertex%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-El--Tousy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/El-Tousy)
 
@@ -140,5 +140,5 @@ If you want to see what I'm working on, explore my repositories below ⬇️
 Feel free to reach out if you have a question or a project idea for me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nexusovertex@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MarkooSilvax)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Sil_vaxs)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nexus-Vertex)
