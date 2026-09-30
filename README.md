@@ -11,6 +11,8 @@ I build practical, real-world software — from debugging and testing to full ap
 [![Telegram](https://img.shields.io/badge/Telegram-@MarkooSilvax-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MarkooSilvax)
 [![Email](https://img.shields.io/badge/Email-nexusovertex%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-El--Tousy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/El-Tousy)
+
+[![Forkfolio](https://img.shields.io/badge/Forkfolio-El--Tousy-8A2BE2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDN2MThNNSA0djVhNyA3IDAgMCAwIDE0IDBWNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==)](https://my-github.forkfolio.dev/)
  
 Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Development
   
