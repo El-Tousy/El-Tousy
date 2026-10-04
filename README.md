@@ -3,7 +3,7 @@
      
 # 𝑺𝒊𝒍𝒗𝒂𝒙𝒔        
      
-### Junior Software Developer · Python & Web Development · IT Systems    
+### Junior Software Developer · Python & Web Development · IT Systems     
    
 I build practical, real-world software — from debugging and testing to full applications — and I keep learning how software and IT systems fit together.
 
