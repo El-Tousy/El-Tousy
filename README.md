@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">بسم الله الرحمن الرحيم</p>     
-    
+     
 # 𝑺𝒊𝒍𝒗𝒂𝒙𝒔       
     
 ### Junior Software Developer · Python & Web Development · IT Systems    
