@@ -1,7 +1,5 @@
 <div align="center">
 
-# 𝑺𝒊𝒍𝒗𝒂𝒙𝒔
-
 ### Junior Software Developer · Python & Webentwicklung · IT-Systeme
 
 Ich entwickle praxisnahe Software — vom Debugging und Testen bis hin zu vollständigen Anwendungen — und lerne dabei stetig, wie Software und IT-Systeme zusammenspielen.
