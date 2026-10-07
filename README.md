@@ -1,5 +1,5 @@
 <div align="center">
-<p align="center"> بسم الله الرحمن الرحيم</p>           
+<p align="center"> بسم الله الرحمن الرحيم</p>            
       
 ### Junior Software Developer · Python & Web Development · IT Systems     
    
