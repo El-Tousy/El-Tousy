@@ -5,7 +5,7 @@
 Ich entwickle praxisnahe Software — vom Debugging und Testen bis hin zu vollständigen Anwendungen — und lerne dabei stetig, wie Software und IT-Systeme zusammenspielen.
 
 [![English version](https://img.shields.io/badge/English_version-README.md-0A66C2?style=flat-square)](README.md)
-[![Telegram](https://img.shields.io/badge/Telegram-@MarkooSilvax-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MarkooSilvax)
+[![Telegram](https://img.shields.io/badge/Telegram-@Silvaxs-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sil_vaxs)
 [![Email](https://img.shields.io/badge/Email-nexusovertex%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-El--Tousy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/El-Tousy)
 
