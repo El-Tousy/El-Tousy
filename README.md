@@ -51,7 +51,7 @@ I can help with debugging, fixing errors, testing applications and developing sm
 
 ## Tech Stack
 
-<img src="https://leila.nekoweb.org/images/kelvin.gif" width="178" align="right" />
+<img src="https://silvaxs.nekoweb.org/images/kelvin.gif" width="178" align="right" />
 
 ### 💻 Development
 
