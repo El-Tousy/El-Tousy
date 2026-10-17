@@ -1,87 +1,144 @@
 <div align="center">
+<p align="center"> بسم الله الرحمن الرحيم</p>               
+    
+# 𝑺𝒊𝒍𝒗𝒂𝒙𝒔     
+   
+### Junior Software Developer · Python & Web Development · IT Systems         
+  
+I build practical, real-world software — from debugging and testing to full applications — and I keep learning how software and IT systems fit together.
 
-<p>بسم الله الرحمن الرحيم</p>
+[![Deutsch version](https://img.shields.io/badge/Deutsche_Version-README.de.md-0A66C2?style=flat-square)](README.de.md)
+[![Telegram](https://img.shields.io/badge/Telegram-@𝑺𝒊𝒍𝒗𝒂𝒙𝒔-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sil_vaxs)
+[![Email](https://img.shields.io/badge/Email-nexusovertex%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
+[![Gitlab](https://img.shields.io/badge/Gitlab-El--Tousy-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/El-Tousy)
 
-# Leila El Tousy
+[![Forkfolio](https://img.shields.io/badge/Forkfolio-El--Tousy-8A2BE2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDN2MThNNSA0djVhNyA3IDAgMCAwIDE0IDBWNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==)](https://my-github.forkfolio.dev/)
+ 
+Morocco 🇲🇦 · freelance and junior roles · Python · SQL · Web Development
+  
+</div>
+ 
+---  
+  
+<table>    
+<tr>         
+<td width="70%"> 
+            
+<div align="center">
+            
+## Profile
 
-### Angehende Anwendungsentwicklerin · Python · Web · Android
+</div>
 
-Ich suche eine **Ausbildung als Fachinformatikerin für Anwendungsentwicklung** in Deutschland.
+I'm , from Morocco 🇲🇦 , passionate about IT, software development and building practical solutions.   
 
-[![English](https://img.shields.io/badge/English_version-README.md-0A66C2?style=flat-square)](README.md)
-[![E-Mail](https://img.shields.io/badge/E--Mail-leilaeltousy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-el--tousy.github.io-8A2BE2?style=flat-square)](https://el-tousy.github.io)
-[![GitLab](https://img.shields.io/badge/GitLab-El--Tousy-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/El-Tousy)
+I enjoy working on real-world projects, exploring new technologies and understanding how software and IT systems work together.      
+           
+I am a junior software developer with experience in Python, web development, SQL and software projects. 
 
-Marokko 🇲🇦 · Bereit für einen Umzug nach Deutschland
+I can help with debugging, fixing errors, testing applications and developing small software solutions. 
+
+---
+
+</td>
+<td width="70%">
+
+<img src="assets/coding.gif" width="280">
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+<img src="https://silvaxs.nekoweb.org/images/kelvin.gif" width="178" align="right" />
+
+### 💻 Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🖥️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br clear="right"/>
+
+---
+
+
+## What I've been building
+-  Building **[Alexandra](https://github.com/Nexus-Vertex/Alexandra-AI-Voice-Assistante)** — an AI Voice Assistant (PFE 2026)
+-  Migrated **[GLPI 10 to GLPI 11](https://github.com/Nexus-Vertex/glpi-10-to-11-docker-migration)** via Docker
+-  Built an **[Admin Dashboard](https://github.com/Nexus-Vertex/Admin-dashboard-project-internship-Giga-Manager-overview-screenshots-only)** for website & user management during my internship
+-  Designed a **[Weather Supervision Dashboard](https://github.com/Nexus-Vertex/Weather-supervision-dashboard-showcase)** with live map, alarms & KPIs 
+-  Built a **[WhatsApp Bot](https://github.com/Nexus-Vertex/Meta-API-python-whatsapp-bot)** using the Meta API and OpenAI
+-  Developed a full **[E-Commerce website](https://github.com/Nexus-Vertex/.-VELO-STOR-Online-Store-Web-Project)** from scratch
+
+Every project I create solves a real problem or teaches me something new.
+
+If you want to see what I'm working on, explore my repositories below ⬇️
+
+---
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/0-profile-details.svg">
+  <img width="100%" alt="GitHub profile details" src="profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/1-repos-per-language.svg">
+    <img width="49%" alt="Repositories per language" src="profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github/3-stats.svg">
+    <img width="49%" alt="GitHub statistics" src="profile-summary-card-output/github/3-stats.svg">
+  </picture>
+</p>
+
+---
+
+## 👾 Contribution Graph
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-## Über mich
+## Let's connect
 
-Ich bin Informatik-Absolventin aus Marokko und habe praktische Erfahrung mit Python, Webentwicklung, Datenbanken und Android. Ich habe vollständige Projekte umgesetzt — von einem Sprachassistenten über eine E-Commerce-Website bis zu einem Überwachungs-Dashboard — und suche eine Ausbildung, in der ich professionelle Softwareentwicklung im Team lernen kann.
+Feel free to reach out if you have a question or a project idea for me!
 
-Ich löse gern reale Probleme, möchte verstehen, wie Software und IT-Systeme zusammenspielen, und lerne neue Technologien Schritt für Schritt.
-
----
-
-## Ausbildung
-
-| Zeitraum | Abschluss | Einrichtung |
-|---|---|---|
-| 2024 – 2026 | **DUT Informatik** (Génie Informatique, Bac+2) — abgeschlossen | École Supérieure de Technologie, Béni Mellal |
-| 2023 – 2024 | **Baccalauréat**, Physikalische Wissenschaften | Béni Mellal |
-
----
-
-## Sprachen
-
-| Sprache | Niveau |
-|---|---|
-| Arabisch | Muttersprache |
-| Französisch | B2 |
-| Englisch | B2 |
-| Deutsch | B2 |
-
----
-
-## Kenntnisse
-
-**Programmiersprachen:** Python · Kotlin · Java · PHP · JavaScript · SQL · HTML · CSS
-
-**Frameworks und Technologien:** Flask · Firebase · MySQL · MariaDB · Bootstrap · jQuery · Leaflet.js · OpenAI-API · Meta WhatsApp Cloud API
-
-**Werkzeuge:** Git · GitHub · Docker · Android Studio · VS Code · XAMPP · phpMyAdmin
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Projekte
-
-| Projekt | Beschreibung | Technologien |
-|---|---|---|
-| [**Alexandra**](https://github.com/El-Tousy/alexandra-voice-assistant) | Android-Sprachassistent mit KI-Konversation und Web-Admin-Dashboard — Abschlussprojekt, 2026 | Kotlin, Java, Firebase, OpenAI-API |
-| [**WhatsApp-KI-Assistent**](https://github.com/El-Tousy/whatsapp-bot) | WhatsApp-Bot, der Kundenfragen auf Basis eines Produktkatalogs beantwortet — Praktikum | Python, Flask, Meta Cloud API, OpenAI-API |
-| [**Velo.Stor**](https://github.com/El-Tousy/velo.Store) | Arabische E-Commerce-Website mit RTL-Layout für Fahrräder und Roller, ohne Framework entwickelt — Praktikum ([Live-Demo](https://velo-stor.netlify.app/)) | HTML, CSS, JavaScript, Netlify |
-| [**Wetterstationen-Dashboard**](https://github.com/El-Tousy/weather-monitoring-dashboard) | Web-Dashboard mit Live-Stationskarte, Alarmen, Kennzahlen und rollenbasiertem Zugriff — Praktikum | PHP, MySQL, Leaflet.js, Bootstrap |
-| [**GLPI-Migration 10 → 11**](https://github.com/El-Tousy/glpi-docker-migration) | Docker-basierte GLPI-11-Installation und Migration einer bestehenden GLPI-10-Datenbank unter Windows — Praktikum | Docker, MariaDB, SQL |
-
----
-
-## Kontakt
-
-Ich freue mich über Nachrichten von Unternehmen, die eine Ausbildung in der Anwendungsentwicklung anbieten.
-
-[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=leilaeltousy@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Sil_vaxs)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/El-Tousy)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/El-Tousy)
