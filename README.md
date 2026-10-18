@@ -1,8 +1,4 @@
-<div align="center">
-
-<p>بسم الله الرحمن الرحيم</p>
-
-# 𝑺𝒊𝒍𝒗𝒂𝒙𝒔   
+# 𝑳𝒆𝒊𝒍𝒂  
 
 ### Angehende Anwendungsentwicklerin · Python · Web · Android
 
