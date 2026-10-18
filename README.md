@@ -9,8 +9,8 @@
 Ich suche eine **Ausbildung als Fachinformatikerin für Anwendungsentwicklung** in Deutschland.
 
 [![English](https://img.shields.io/badge/English_version-README.md-0A66C2?style=flat-square)](README.en.md)
-[![E-Mail](https://img.shields.io/badge/E--Mail-nexusovertex%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Silvaxs-8A2BE2?style=flat-square)](https://𝑺𝒊𝒍𝒗𝒂𝒙𝒔 )
+[![E-Mail](https://img.shields.io/badge/E--Mail-leilaeltousy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-el-tousy.github.io-8A2BE2?style=flat-square)](https://el-tousy.github.io/ )
 [![GitLab](https://img.shields.io/badge/GitLab-El--Tousy-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/El-Tousy)
 
 Marokko 🇲🇦 · Bereit für einen Umzug nach Deutschland
