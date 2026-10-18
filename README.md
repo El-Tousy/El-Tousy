@@ -10,7 +10,7 @@ Ich suche eine **Ausbildung als Fachinformatikerin für Anwendungsentwicklung** 
 
 [![English](https://img.shields.io/badge/English_version-README.md-0A66C2?style=flat-square)](README.en.md)
 [![E-Mail](https://img.shields.io/badge/E--Mail-leilaeltousy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-el-tousy.github.io-8A2BE2?style=flat-square)](https://el-tousy.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-el--tousy.github.io-8A2BE2?style=flat-square)](https://el-tousy.github.io)
 [![GitLab](https://img.shields.io/badge/GitLab-El--Tousy-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/El-Tousy)
 
 Marokko 🇲🇦 · Bereit für einen Umzug nach Deutschland
@@ -86,6 +86,6 @@ Ich löse gern reale Probleme, möchte verstehen, wie Software und IT-Systeme zu
 
 Ich freue mich über Nachrichten von Unternehmen, die eine Ausbildung in der Anwendungsentwicklung anbieten.
 
-[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nexusovertex@gmail.com)
+[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/El-Tousy)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/El-Tousy)
