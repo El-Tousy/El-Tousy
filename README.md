@@ -14,7 +14,7 @@ Ich suche eine **Ausbildung als Fachinformatikerin für Anwendungsentwicklung** 
 Marokko 🇲🇦 · Bereit für einen Umzug nach Deutschland
 
 </div>
-   
+      
 --- 
 
 ## Über mich
