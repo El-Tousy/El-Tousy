@@ -16,7 +16,7 @@ Marokko 🇲🇦 · Bereit für einen Umzug nach Deutschland
 </div>
       
 --- 
-
+ 
 ## Über mich
 
 Ich bin Informatik-Absolventin aus Marokko und habe praktische Erfahrung mit Python, Webentwicklung, Datenbanken und Android. Ich habe vollständige Projekte umgesetzt — von einem Sprachassistenten über eine E-Commerce-Website bis zu einem Überwachungs-Dashboard — und suche eine Ausbildung, in der ich professionelle Softwareentwicklung im Team lernen kann.
