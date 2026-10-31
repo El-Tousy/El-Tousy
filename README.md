@@ -1,6 +1,6 @@
 <div align="center">   
          
-# E Tousy       
+# El Tousy       
         
 ### Angehende Anwendungsentwicklerin · Python · Web · Android           
  
