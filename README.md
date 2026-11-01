@@ -30,7 +30,7 @@ Ich löse gern reale Probleme, möchte verstehen, wie Software und IT-Systeme zu
 | Zeitraum | Abschluss | Einrichtung |
 |---|---|---|
 | 2026 – 2027 | **Bachelor Künstliche Intelligenz und Data Science**  | Fachhochschule für Technologie, Marokko |
-| 2024 – 2026 | **DUT Informatik** (Informatikingenieurwesen, Bac+2) — abgeschlossen | Fachhochschule für Technologie, Marokko |
+| 2024 – 2026 | **DUT Informatik** (Informatikingenieurwesen, zweijähriges Hochschulstudium nach dem Abitur) — abgeschlossen | Fachhochschule für Technologie, Marokko |
 | 2023 – 2024 | **Abitur**, Physikalische Wissenschaften | Marokko |
 
 ---
