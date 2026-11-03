@@ -1,6 +1,6 @@
 <div align="center">   
            
-# 𝑳𝒆𝒊𝒍𝒂         
+# El Tousy        
             
 ### Angehende Anwendungsentwicklerin · Python · Web · Android             
   
