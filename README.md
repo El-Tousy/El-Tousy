@@ -2,9 +2,9 @@
            
 # 𝑳𝒆𝒊𝒍𝒂      
             
-### Angehende Anwendungsentwicklerin · Python · Web · Android             
-  
-Ich suche eine **Ausbildung als Fachinformatikerin für Anwendungsentwicklung** in Deutschland.  
+### Angehende Fachinformatikerin · Python · SQL · Web · Android
+
+Ich suche eine **Ausbildung als Fachinformatikerin** in Ab 2027.
 
 [![English](https://img.shields.io/badge/English_version-README.md-0A66C2?style=flat-square)](README.en.md)
 [![E-Mail](https://img.shields.io/badge/E--Mail-leilaeltousy%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leilaeltousy@gmail.com)
@@ -19,9 +19,9 @@ Marokko 🇲🇦 · Bereit für einen Umzug nach Deutschland
  
 ## Über mich
 
-Ich bin Informatik-Absolventin aus Marokko und habe praktische Erfahrung mit Python, Webentwicklung, Datenbanken und Android. Ich habe vollständige Projekte umgesetzt — von einem Sprachassistenten über eine E-Commerce-Website bis zu einem Überwachungs-Dashboard — und suche eine Ausbildung, in der ich professionelle Softwareentwicklung im Team lernen kann.
+Ich bin Informatik-Absolventin aus Marokko und habe praktische Erfahrung mit Python, Webentwicklung, Datenbanken und Android. Ich habe vollständige Projekte umgesetzt – von einem Sprachassistenten über eine E-Commerce-Website bis zu einem Überwachungs-Dashboard mit Kennzahlen und Alarmen.
 
-Ich löse gern reale Probleme, möchte verstehen, wie Software und IT-Systeme zusammenspielen, und lerne neue Technologien Schritt für Schritt. Meinen Bachelor in Künstlicher Intelligenz und Data Science schließe ich 2027 ab und möchte anschließend eine praxisnahe Ausbildung beginnen.
+Ich programmiere gern Anwendungen und arbeite mit Daten, zum Beispiel mit SQL, Dashboards und Kennzahlen. In meinem Studium vertiefe ich Datenanalyse und Künstliche Intelligenz. Ich suche eine Ausbildung, in der ich professionell im Team lerne.
 
 ---
 
