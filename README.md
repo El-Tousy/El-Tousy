@@ -3,7 +3,7 @@
 # 𝑳𝒆𝒊𝒍𝒂           
             
 ### Angehende Fachinformatikerin · Python · SQL · Web · Android 
-
+   
 Ich suche eine **Ausbildung als Fachinformatikerin** ab 2027.
 
 [![English](https://img.shields.io/badge/English_version-README.md-0A66C2?style=flat-square)](README.en.md)
