@@ -29,7 +29,7 @@ Ich programmiere gern Anwendungen und arbeite mit Daten, zum Beispiel mit SQL, D
 
 | Zeitraum | Abschluss | Einrichtung |
 |---|---|---|
-| 2026 – 2027 | **Bachelor Künstliche Intelligenz und Data Science** (dreijähriges Hochschulstudium nach dem Abitur, Abschluss 2027) | Fachhochschule für Technologie, Marokko |
+| 2026 – Bis jetzt   | **Bachelor Künstliche Intelligenz und Data Science** (dreijähriges Hochschulstudium nach dem Abitur, Abschluss 2027) | Fachhochschule für Technologie, Marokko |
 | 2024 – 2026 | **DUT Informatik** (Informatikingenieurwesen, zweijähriges Hochschulstudium nach dem Abitur) — abgeschlossen | Fachhochschule für Technologie, Marokko |
 | 2023 – 2024 | **Abitur**, Physikalische Wissenschaften | Marokko |
 
