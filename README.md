@@ -1,7 +1,7 @@
 <div align="center">   
               
 # 𝑳𝒆𝒊𝒍𝒂           
-               
+                 
 ### Angehende Fachinformatikerin · Python · SQL · Web · Android 
         
 Ich suche eine **Ausbildung als Fachinformatikerin** ab 2027.
