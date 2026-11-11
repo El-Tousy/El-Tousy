@@ -1,5 +1,5 @@
 <div align="center">   
-            
+              
 # 𝑳𝒆𝒊𝒍𝒂           
                
 ### Angehende Fachinformatikerin · Python · SQL · Web · Android 
