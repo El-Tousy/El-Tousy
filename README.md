@@ -1,7 +1,7 @@
 <div align="center">   
                 
 # Silvaxs                 
-                     
+                         
 ### Angehende Fachinformatikerin · Python · SQL · Web · Android     
           
 Ich suche eine **Ausbildung als Fachinformatikerin** ab 2027.   
