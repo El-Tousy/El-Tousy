@@ -1,6 +1,6 @@
 <div align="center">       
                 
-# Silvaxs                 
+# Silvaxs                    
                          
 ### Angehende Fachinformatikerin · Python · SQL · Web · Android     
           
